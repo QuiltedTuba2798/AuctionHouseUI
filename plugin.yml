@@ -1,0 +1,9 @@
+name: AuctionHouse
+main: AuctionHouse\Main
+api: [3.0.0-ALPHA12]
+version: 1.0.0
+author: QuiltedTuba2987
+depend: []
+commands:
+  ah:
+    description: ""
